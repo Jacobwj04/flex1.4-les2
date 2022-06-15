@@ -1,0 +1,32 @@
+html{
+  font-size: 62.5%;
+}
+
+body{
+  color: rgb(0, 0, 0);
+  font-family: sans-serif;
+}
+
+form{
+  width: 50rem;
+  height: 10rem;
+  border: 1.5px solid rgb(0, 0, 0);
+  background-color: rgb(61, 182, 146);
+  padding: 30px;
+  border-radius: 1rem;
+}
+
+.button {
+  font-family: sans-serif;
+  height: 3rem;
+  border-radius: 1rem;
+  border: 1px solid black;
+}
+
+.txt{
+  font-family: sans-serif;
+  height: 1rem;
+  border-radius: 1rem;
+  border: 1px solid black;
+  padding: 1rem;
+}
